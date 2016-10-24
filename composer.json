@@ -1,0 +1,7 @@
+{
+    "name": "jhernandes/php-itaucripto",
+    "description": "Versão em PHP da classe Itaucripto, originalmente escrita em Java",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
